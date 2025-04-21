@@ -1,3 +1,5 @@
-# Johan Scheepers
-
-## My Page
+- 👋 Hi, I’m @JohanScheepers
+- 
+- 👀 I’m interested in ...Node-Red, LoRaWAN, Flutter, InfluxDB, MySQL, C++, Dart
+- 
+- 📫 How to reach me ...scheepersjohanF@gmail.com
