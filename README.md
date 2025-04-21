@@ -1,3 +1,3 @@
-# JohanScheepers
+# Johan Scheepers
 
 ## My Page
