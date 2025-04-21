@@ -1,3 +1,3 @@
-# JohanScheepers.github.io
+# JohanScheepers
 
 ## My Page
